@@ -16,7 +16,7 @@ export const USER_CONFIG = {
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
   IS_SHOW_COLOR: true,
-  
+  1
   // 功能开关,打开：true，关闭：false
   SWITCH: {
     /** 每日天气 */
